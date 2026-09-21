@@ -19,7 +19,7 @@ const me = {
 ```
 
 - 🔭 I'm currently working on **Flutter & React projects**
-- 🌱 I'm currently learning **new frameworks and better architecture**
+- 🌱 I'm currently learning **Riverpod and clean architecture**
 - 💬 Ask me about **Dart, Flutter, React**
 - ⚡ Fun fact: Flutter is goat!!
 
