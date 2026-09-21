@@ -46,23 +46,6 @@ const me = {
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrpark10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpark10&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpark10&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrpark10&style=flat-square&color=3B82F6)
