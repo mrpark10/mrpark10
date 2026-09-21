@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mrpark10/mrpark10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi%20there%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=460&lines=Flutter+%26+React+Developer;Dart+%7C+JavaScript;Always+building+something+new" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+```dart
+const me = {
+  'focus'    : 'Mobile & Web',
+  'learning' : 'Flutter State Management',
+  'contact'  : 'github.com/mrpark10',
+};
+```
+
+- 🔭 I'm currently working on **Flutter & React projects**
+- 🌱 I'm currently learning **new frameworks and better architecture**
+- 💬 Ask me about **Dart, Flutter, React**
+- ⚡ Fun fact: 코드는 짧을수록 아름답다
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Language**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Framework**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrpark10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpark10&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpark10&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mrpark10&style=flat-square&color=3B82F6)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" />
+
+</div>
