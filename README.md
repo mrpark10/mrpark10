@@ -21,7 +21,7 @@ const me = {
 - 🔭 I'm currently working on **Flutter & React projects**
 - 🌱 I'm currently learning **new frameworks and better architecture**
 - 💬 Ask me about **Dart, Flutter, React**
-- ⚡ Fun fact: 코드는 짧을수록 아름답다
+- ⚡ Fun fact: Flutter is goat!!
 
 ---
 
@@ -37,7 +37,7 @@ const me = {
 **Framework**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ReactNative](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools**
 
